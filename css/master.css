@@ -325,6 +325,7 @@ nav a:hover:before {
 .map-section {
   padding: 60px 10%;
   background-color: #f4f6f9;
+  background-color: rgb(13, 27, 42);
   text-align: center;
 }
 
@@ -332,12 +333,14 @@ nav a:hover:before {
   font-size: 28px;
   margin-bottom: 10px;
   color: #122238;
+  color: #ffffffab;
 }
 
 .map-section p {
   font-size: 16px;
   margin-bottom: 20px;
   color: #1b2b4b;
+  color: #ffffffab;
 }
 
 .map-container iframe {
